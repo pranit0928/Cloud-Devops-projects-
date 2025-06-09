@@ -1,4 +1,4 @@
-How you can manage the cloud cost optimization in your AWS account as an Cloud or Devops engineer ?
+Q. How you can manage the cloud cost optimization in your AWS account as an Cloud or Devops engineer ?
 
 AWS Cloud Cost Optimization - Identifying Stale Resources
 Identifying Stale EBS Snapshots
